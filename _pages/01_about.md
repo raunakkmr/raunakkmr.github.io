@@ -12,6 +12,7 @@ science at the University of British Columbia. I am passionate about
 * better deep learning architectures and optimizers,
 * applications of deep and reinforcement learning in healthcare, natural
   language tasks, computer vision and finance,
+* randomized algorithms especially in the realm of big data
 * theoretical aspects of machine learning and algorithms in general.
 
 I also take keen interest competitive programming, math, computer systems and
