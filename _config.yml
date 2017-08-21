@@ -37,6 +37,7 @@ theme: minima
 gems:
   - jekyll-redirect-from
   - jekyll-feed
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
