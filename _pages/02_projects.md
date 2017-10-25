@@ -20,12 +20,16 @@ Group](https://www.cs.ubc.ca/labs/beta/Courses/MLTRG.html) (MLTRG) at UBC.
 ## Papers
 
 * Convergence of Expectation-Maximization.
+
   Raunak Kumar, Mark Schmidt.
+
   NIPS [OPT 2017](http://opt-ml.org).
 
 * [Approximating Steiner Trees in the Semi-Streaming
   Model](../documents/CPSC-536N-Project-Raunak-Devon.pdf).
+
   Raunak Kumar, Devon R. Graham.
+
   Course Project for [CPSC 536N](https://www.cs.ubc.ca/~nickhar/W17/).
 
 ## Software
