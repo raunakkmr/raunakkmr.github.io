@@ -7,7 +7,7 @@ permalink: /projects/
 ## Papers
 
 * [Convergence of
-  Expectation-Maximization](../documents/Convergence-of-Expecatation-Maximization.pdf).  
+  Expectation-Maximization](../documents/Convergence-of-Expectation-Maximization.pdf).  
   Raunak Kumar, Mark Schmidt.  
   [NIPS OPT 2017](http://opt-ml.org).
 
