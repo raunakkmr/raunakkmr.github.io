@@ -24,7 +24,8 @@ url: "http://raunakkmr.github.io" # the base hostname & protocol for your site, 
 # twitter_username: jekyllrb
 github_username: raunakkmr
 linkedin_username: raunak-kumar-87912b94
-resume: raunak_kumar_resume.pdf
+resume: cv.pdf
+# resume: raunak_kumar_resume.pdf
 
 # Build settings
 sass:
