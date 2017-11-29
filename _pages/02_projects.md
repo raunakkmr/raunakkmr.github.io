@@ -22,7 +22,7 @@ I present at the [Machine Learning Reading Group](https://www.cs.ubc.ca/labs/lci
 (MLRG) and the [Machine Learning Theory Reading
 Group](https://www.cs.ubc.ca/labs/beta/Courses/MLTRG.html) (MLTRG) at UBC.
 
-* [MLRG 2017 Winter Term 1](../documents/mlrg-2-17-w1.pdf)
+* [MLRG 2017 Winter Term 1](../documents/mlrg-2017-w1.pdf)
 * [MLRG 2017 Summer](../documents/mlrg-2017-summer.pdf)
     * I pointed out an error in the AdaGrad algorithm as presented in the
       [Online Convex Optimization](ocobook.cs.princeton.edu) book to the author,
