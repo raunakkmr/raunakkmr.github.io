@@ -6,6 +6,8 @@ permalink: /about/
 
 <img class='my_image' src='../documents/my_image_1.jpg' alt='my_image_1'/>
 
+Check out my new website [here](https://www.cs.cornell.edu/~raunak).
+
 Hi! My name is Raunak and I am an undergraduate student studying computer
 science at the University of British Columbia. I am passionate about
 **algorithms** and **machine learning**. More specifically, I'm interested in
