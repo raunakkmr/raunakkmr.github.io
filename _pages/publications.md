@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Refereed Conference Proceedings](#refereed-conference-proceedings)  
+[Conference Proceedings](#refereed-conference-proceedings)  
 [Workshops](#workshops)  
 [Technical Reports](#technical-reports)
 
-## Refereed Conference Proceedings
+## Conference Proceedings
 
 1. **Retrieving Top Weighted Triangles in Graphs.**  
    Raunak Kumar\*, Paul Liu\*, Moses Charikar, and Austin R. Benson.  
