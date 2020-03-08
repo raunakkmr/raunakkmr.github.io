@@ -22,7 +22,7 @@ author_profile: true
 
 1. **Convergence Rate of Expectation-Maximization.**  
    Raunak Kumar and Mark Schmidt.  
-   10th Neural Information Processing Systems (*NeurIPS*) Workshop on
+   10th Neural Information Processing Systems (**NeurIPS**) Workshop on
    Optimization for Machine Learning (**OPT**), 2017.  
    [\[pdf\]](/files/kumar2017convergence.pdf)
 

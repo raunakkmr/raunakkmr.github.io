@@ -10,7 +10,7 @@ At Cornell I present in various paper reading courses, and machine learning and
 theory seminars.
 
 * Advancing Subgroup Fairness via Sleeping Experts ([original paper](https://arxiv.org/abs/1909.08375))  
-  Whiteboard talk with Kate Donahue in Learning Theory Seminar, Fall 2019
+  With Kate Donahue in Learning Theory Seminar, Fall 2019
 * [Segment Trees](/files/SegmentTrees.pdf)  
   Invited talk in CS 5199: Competition Programming and Problem Solving Seminar, Fall 2019
 * [Algorand: Scaling Byzantine Agreemments for Cryptocurrencies](/files/Algorand.pdf) ([original paper](https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf))  
