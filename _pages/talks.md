@@ -4,7 +4,7 @@ title: "Talks and Presentations"
 author_profile: true
 ---
 
-## Presentations at Cornell Seminars
+## Presentations at Cornell
 
 At Cornell I present in various paper reading courses, and machine learning and
 theory seminars.
@@ -18,7 +18,7 @@ theory seminars.
 * [Fairness without Demographics in Repeated Loss Minimization](/files/ORIE_7191_Presentation.pdf) ([original paper](https://arxiv.org/abs/1806.08010))  
   ML Seminar, Spring 2019; ORIE 7191 : Optimization for Machine Learning, Spring 2019
 
-## Presentations at UBC Reading Groups
+## Presentations at UBC
 
 At UBC I used to present at the [Machine Learning Reading
 Group](https://www.cs.ubc.ca/labs/lci/mlrg/) (MLRG) and the [Machine Learning

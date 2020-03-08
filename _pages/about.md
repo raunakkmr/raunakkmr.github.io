@@ -17,7 +17,6 @@ machine learning.
 I am broadly interested in machine learning and theoretical computer science. I
 am also interested in applications of machine learning in sustainability and
 healthcare.
-Here is my [CV](/files/raunak_kumar_cv.pdf).
 
 You can reach me via email (firstname AT cs DOT cornell DOT edu).
 
