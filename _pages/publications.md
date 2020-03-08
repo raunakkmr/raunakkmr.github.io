@@ -24,12 +24,12 @@ author_profile: true
    Raunak Kumar and Mark Schmidt.  
    10th Neural Information Processing Systems (**NeurIPS**) Workshop on
    Optimization for Machine Learning (**OPT**), 2017.  
-   [\[pdf\]](/files/kumar2017convergence.pdf)
+   [\[pdf\]](../files/kumar2017convergence.pdf)
 
 ## Technical Reports
 
 1. **Approximating Steiner Trees in the Semi-Streaming Model.**  
    Devon R. Graham\* and Raunak Kumar\*.  
    CPSC 536N Course Project, University of British Columbia, 2017.  
-   [\[pdf\]](/files/graham2017approx.pdf)
+   [\[pdf\]](../files/graham2017approx.pdf)
 
