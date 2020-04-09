@@ -4,6 +4,9 @@ title: "Talks and Presentations"
 author_profile: true
 ---
 
+[Presentations at Cornell](#presentations-at-cornell)  
+[Presentations at UBC](#presentations-at-ubc)
+
 ## Presentations at Cornell
 
 * Advancing Subgroup Fairness via Sleeping Experts ([original paper](https://arxiv.org/abs/1909.08375))  
