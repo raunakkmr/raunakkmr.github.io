@@ -23,11 +23,11 @@ Hopcroft.
 in Computer Science. As an undergraduate student, I co-taught this student
 seminar on practical applications of advanced algorithms and data structures.
 My responsibilities included lecturing a class of 15-30 students 3 times a
-week, writing lecture notes and creating assignments.
+week, writing lecture notes, and creating assignments.
 
 ### Undergraduate Teaching Assistant
 
-As a TA my responsibilities included lecturing sections ranging from 15 to 100
+As a TA, my responsibilities included lecturing sections ranging from 15 to 100
 studentss, holding office hours and review sessions, and grading. I have taught
 a full lecture for CPSC 420 and CPSC 320 as well. I won a [UBC Computer Science
 Teaching Assistant
@@ -42,5 +42,5 @@ in 2017.
 * CPSC 213 - Introduction to Computer Systems (3x)
 * [CPSC 121](https://www.students.cs.ubc.ca/~cs-121/2014W1/) - Models of Computation
 
-\* indicates that usually only graduate students are assigned to TA these courses
+\* indicates that usually only graduate students are assigned to TA these courses,
 but I was an undergrad when I was assigned.
