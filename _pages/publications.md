@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Conference Proceedings](#refereed-conference-proceedings)  
+[Conference Proceedings](#conference-proceedings)  
 [Workshops](#workshops)  
 [Technical Reports](#technical-reports)
 
