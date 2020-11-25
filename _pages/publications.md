@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 [Conference Proceedings](#conference-proceedings)  
+[Preprints](#preprints)  
 [Workshops](#workshops)  
 [Technical Reports](#technical-reports)
 
@@ -15,8 +16,15 @@ author_profile: true
    Raunak Kumar\*, Paul Liu\*, Moses Charikar, and Austin R. Benson.  
    Proceedings of the 13th ACM International Conference on Web Search and Data
    Mining (**WSDM**), 2020.  
-   [\[pdf\]](https://arxiv.org/pdf/1910.00692.pdf)
+   [\[pdf\]](https://arxiv.org/abs/1910.00692)
    [\[code\]](https://github.com/raunakkmr/Retrieving-top-weighted-triangles-in-graphs)
+
+## Preprints
+
+1. **Homeomorphic-Invariance of EM: Non-Asymptotic Convergence in KL Divergence for Exponential Families via Mirror Descent**  
+   Frederik Kunstner, Raunak Kumar, and Mark Schmidt.  
+   *arXiv*, 2020.
+   [\[pdf\]](https://arxiv.org/abs/2011.01170)
 
 ## Workshops
 
