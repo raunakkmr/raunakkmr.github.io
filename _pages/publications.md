@@ -23,7 +23,7 @@ author_profile: true
 
 1. **Homeomorphic-Invariance of EM: Non-Asymptotic Convergence in KL Divergence for Exponential Families via Mirror Descent**  
    Frederik Kunstner, Raunak Kumar, and Mark Schmidt.  
-   *arXiv*, 2020.
+   *arXiv*, 2020.  
    [\[pdf\]](https://arxiv.org/abs/2011.01170)
 
 ## Workshops
