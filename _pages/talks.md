@@ -8,6 +8,8 @@ author_profile: true
 
 ## Presentations in Reading Groups and Seminars
 
+* [Optimism in the Face of Uncertainty](../files/cornell_great_ideas_2020_fall).
+  Cornell Great Ideas in TCS Seminar, Octover 2020.  
 * Advancing Subgroup Fairness via Sleeping Experts ([original paper](https://arxiv.org/abs/1909.08375)).  
   Cornell Learning Theory Seminar, November 2019.  
   (with [Kate Donahue](https://www.katedonahue.me/))
@@ -20,9 +22,9 @@ author_profile: true
   Cornell Machine Learning Seminar, May 2019.
 * [Fairness without Demographics in Repeated Loss Minimization](../files/ORIE_7191_Presentation.pdf) ([original paper](https://arxiv.org/abs/1806.08010)).  
   Cornell ORIE 7191: Optimization for Machine Learning, April 2019.
-* [Deep Generative Models: Beyond GANs](../files/mlrg-2017-w1.pdf).  
+* [Deep Generative Models: Beyond GANs](../files/mlrg_2017_w1.pdf).  
   UBC Machine Learning Reading Group, November 2017.
-* [Adagrad, Adam and Online-to-Batch](../files/mlrg-summer-2017.pdf).  
+* [Adagrad, Adam and Online-to-Batch](../files/mlrg_summer_2017.pdf).  
   UBC Machine Learning Reading Group, July 2017.
 * Temporal Difference Learning.  
   UBC Machine Learning Reading Group, January 2017.
