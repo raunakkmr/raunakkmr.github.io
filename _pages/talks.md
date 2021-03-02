@@ -8,7 +8,7 @@ author_profile: true
 
 ## Presentations in Reading Groups and Seminars
 
-* [Optimism in the Face of Uncertainty](../files/cornell_great_ideas_2020_fall).  
+* [Optimism in the Face of Uncertainty](../files/cornell_great_ideas_2020_fall.pdf).  
   Cornell Great Ideas in TCS Seminar, October 2020.  
 * Advancing Subgroup Fairness via Sleeping Experts ([original paper](https://arxiv.org/abs/1909.08375)).  
   Cornell Learning Theory Seminar, November 2019.  
