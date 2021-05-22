@@ -15,9 +15,9 @@ Assistant Award in 2019 in recognition of my accomplishments and contributions i
 
 ### Instructor
 
-As an undergraduate student, I co-taught [CPSC
-490](https://www.students.cs.ubc.ca/~cs-490/2016W2/) - Problem Solving in
-Computer Science, a student seminar on practical applications of advanced
+As an undergraduate student, I co-taught
+[CPSC 490 - Problem Solving in Computer Science](https://www.students.cs.ubc.ca/~cs-490/2016W2/),
+a student seminar on practical applications of advanced
 algorithms and data structures.  My responsibilities included lecturing a class
 of 15-30 students 3 times a week, writing lecture notes, and creating
 assignments.
