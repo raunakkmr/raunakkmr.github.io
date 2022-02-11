@@ -2,8 +2,8 @@
 layout: post
 title: Papers
 ---
-1. Non-monotonic Resource Utilization in the Bandits with Knapsacks Problem.
-   Robert Kleinberg, Raunak Kumar. (alphabetical order)
+1. **Non-monotonic Resource Utilization in the Bandits with Knapsacks Problem.**  
+   Robert Kleinberg, Raunak Kumar. (alphabetical order)  
    Submitted.
 
 2. **Homeomorphic-Invariance of EM: Non-Asymptotic Convergence in KL Divergence for Exponential Families via Mirror Descent.**  
