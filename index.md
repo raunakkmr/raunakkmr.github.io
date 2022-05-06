@@ -3,14 +3,17 @@ layout: post
 title: Raunak Kumar
 ---
 {% include marginfigurenodesc.html id="profile" url="files/profile.png" %}
-I am a PhD student in the Computer Science department at [Cornell University](https://www.cs.cornell.edu/),
-where I have the great fortune of working with [Robert D. Kleinberg](https://www.cs.cornell.edu/~rdk/) on multi-armed bandits.
-I received my undergraduate degree in Computer Science from [The University of British Columbia](https://www.cs.ubc.ca/),
-where I had the pleasure of working with [Mark Schmidt](https://www.cs.ubc.ca/~schmidtm/) on optimization for machine learning.
-I have also worked in the knowledge mining group at Microsoft over multiple summers working closely with
-[Jennifer Neville](https://www.cs.purdue.edu/homes/neville/).
-I am broadly interested in machine learning and theoretical computer science.
+I am a PhD candidate in the Computer Science department at [Cornell
+University](https://www.cs.cornell.edu/), where I am advised by [Robert D.
+Kleinberg](https://www.cs.cornell.edu/~rdk/).
+I am interested in online learning, bandits, optimization, and machine learning
+with graphs.
 
-You can reach me via email (firstname AT cs DOT cornell DOT edu).
+I received my undergraduate degree in Computer Science from [The University of
+British Columbia](https://www.cs.ubc.ca/), where I was advised by [Mark
+Schmidt](https://www.cs.ubc.ca/~schmidtm/). I have also worked in the knowledge
+mining group at Microsoft working closely with [Jennifer
+Neville](https://www.microsoft.com/en-us/research/people/jenneville/).
 
-Outside of work, I love swimming, soccer, tennis, and badminton.
+You can reach me via email (firstname AT cs DOT cornell DOT edu) or LinkedIn
+(link in the footer).
