@@ -3,7 +3,7 @@ layout: post
 title: Papers
 ---
 4. **Non-monotonic Resource Utilization in the Bandits with Knapsacks Problem.**
-   Raunak Kumar and Robert Kleinberg.  
+   Raunak Kumar and Robert D. Kleinberg.  
    In submission, 2022.  
    [\[pdf\]](../files/kumar2022nonmonotonic.pdf)
 
