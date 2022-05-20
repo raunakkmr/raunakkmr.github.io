@@ -3,8 +3,8 @@ layout: post
 title: Papers
 ---
 4. **Non-monotonic Resource Utilization in the Bandits with Knapsacks Problem.**
-   Raunak Kumar and Robert Kleinberg.
-   In submission, 2022.
+   Raunak Kumar and Robert Kleinberg.  
+   In submission, 2022.  
    [\[pdf\]](../files/kumar2022nonmonotonic.pdf)
 
 3. **Homeomorphic-Invariance of EM: Non-Asymptotic Convergence in KL Divergence for Exponential Families via Mirror Descent.**  
