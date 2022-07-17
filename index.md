@@ -11,8 +11,9 @@ with graphs.
 
 I received my undergraduate degree in Computer Science from [The University of
 British Columbia](https://www.cs.ubc.ca/), where I was advised by [Mark
-Schmidt](https://www.cs.ubc.ca/~schmidtm/). I have also worked in the knowledge
-mining group at Microsoft working closely with [Jennifer
+Schmidt](https://www.cs.ubc.ca/~schmidtm/). I have also interned in the
+[MSAI](https://www.microsoft.com/en-us/research/group/msai/) team at Microsoft
+over multiple summers working closely with [Jennifer
 Neville](https://www.microsoft.com/en-us/research/people/jenneville/).
 
 You can reach me via email (firstname AT cs DOT cornell DOT edu) or LinkedIn
