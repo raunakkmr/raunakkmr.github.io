@@ -4,7 +4,7 @@ title: Papers
 ---
 5. **Online Convex Optimization with Unbounded Memory.**  
    Raunak Kumar, Sarah Dean, and Robert D. Kleinberg.  
-   arXiv preprint, 2022.
+   arXiv preprint, 2022.  
    [\[pdf\]](../files/kumar2022oco_unbounded_memory.pdf)
 
 4. **Non-monotonic Resource Utilization in the Bandits with Knapsacks Problem.**  
