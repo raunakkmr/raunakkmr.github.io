@@ -5,7 +5,8 @@ title: Raunak Kumar
 {% include marginfigurenodesc.html id="profile" url="files/profile.png" %}
 I am a PhD candidate in the Computer Science department at [Cornell
 University](https://www.cs.cornell.edu/), where I am advised by [Robert D.
-Kleinberg](https://www.cs.cornell.edu/~rdk/).
+Kleinberg](https://www.cs.cornell.edu/~rdk/) and [Sarah
+Dean](https://sdean.website/).
 I am interested in online learning, bandits, optimization, and machine learning
 with graphs.
 I am grateful to be supported by an NSERC PGSD fellowship.
