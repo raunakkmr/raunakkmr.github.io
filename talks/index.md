@@ -4,25 +4,22 @@ title: Talks
 ---
 ## Presentations in Reading Groups and Seminars
 
-* [Optimism in the Face of Uncertainty](../files/cornell_great_ideas_2020_fall.pdf).  
+* [Optimism in the Face of Uncertainty](../files/2020_fall_cornell_great_ideas_in_tcs.pdf).  
   Cornell Great Ideas in TCS Seminar, October 2020.
 
 * Advancing Subgroup Fairness via Sleeping Experts ([original paper](https://arxiv.org/abs/1909.08375)).  
   Cornell Learning Theory Seminar, November 2019.  
   (with [Kate Donahue](https://www.katedonahue.me/))
 
-* [Segment Trees](../files/SegmentTrees.pdf).  
+* [Segment Trees](../files/2019_10_cornell_cs5199_segment_trees.pdf).  
   Cornell CS 5199: Competition Programming and Problem Solving Seminar, October 2019.
 
 * [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](../files/Algorand.pdf) ([original paper](https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf)).  
   Cornell CS 6466: Cryptocurrencies and Smart Contracts, September 2019.  
   (with Sishan Long)
 
-* [Fairness without Demographics in Repeated Loss Minimization](../files/ORIE_7191_Presentation.pdf) ([original paper](https://arxiv.org/abs/1806.08010)).  
+* [Fairness without Demographics in Repeated Loss Minimization](../files/2019_05_cornell_ml_seminar.pdf) ([original paper](https://arxiv.org/abs/1806.08010)).  
   Cornell Machine Learning Seminar, May 2019.
-
-* [Fairness without Demographics in Repeated Loss Minimization](../files/ORIE_7191_Presentation.pdf) ([original paper](https://arxiv.org/abs/1806.08010)).  
-  Cornell ORIE 7191: Optimization for Machine Learning, April 2019.
 
 * [Deep Generative Models: Beyond GANs](../files/mlrg_2017_w1.pdf).  
   UBC Machine Learning Reading Group, November 2017.
