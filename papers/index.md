@@ -10,6 +10,7 @@ title: Papers
 4. **Non-monotonic Resource Utilization in the Bandits with Knapsacks Problem.**  
    Raunak Kumar and Robert D. Kleinberg.  
    NeurIPS, 2022.  
+   [\[proceedings\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7a62d9a4c03377d1175b8859b4cc16d4-Abstract-Conference.html)
    [\[arXiv\]](https://arxiv.org/abs/2209.12013)
    [\[code\]](https://github.com/raunakkmr/non-monotonic-resource-utilization-in-the-bandits-with-knapsacks-problem-code)
 
