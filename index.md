@@ -2,7 +2,7 @@
 layout: post
 title: Raunak Kumar
 ---
-{% include marginfigurenodesc.html id="profile" url="files/profile.png" %}
+{% include marginfigurenodesc.html id="profile" url="files/profile.jpg" %}
 I am a PhD candidate in the Computer Science department at [Cornell
 University](https://www.cs.cornell.edu/), where I am advised by [Robert D.
 Kleinberg](https://www.cs.cornell.edu/~rdk/) and [Sarah
