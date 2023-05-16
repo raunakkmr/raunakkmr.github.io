@@ -13,6 +13,7 @@ title: Papers
    [\[proceedings\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7a62d9a4c03377d1175b8859b4cc16d4-Abstract-Conference.html)
    [\[arXiv\]](https://arxiv.org/abs/2209.12013)
    [\[code\]](https://github.com/raunakkmr/non-monotonic-resource-utilization-in-the-bandits-with-knapsacks-problem-code)
+   [\[poster\]](../files/2022_neurips_non_monotonic_resource_utilizaiton_in_the_bwk_problem_poster.pdf)
 
 3. **Homeomorphic-Invariance of EM: Non-Asymptotic Convergence in KL Divergence for Exponential Families via Mirror Descent.**  
    Frederik Kunstner, Raunak Kumar, and Mark Schmidt.  
