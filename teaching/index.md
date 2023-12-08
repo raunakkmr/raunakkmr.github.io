@@ -6,10 +6,16 @@ title: Teaching
 
 ### Graduate Teaching Assistant
 
-I worked as a graduate TA for
-[CS 4850 - Mathematical Foundations for The Information Age](http://www.cs.cornell.edu/courses/cs4850/2019sp/)
-taught by Prof. John Hopcroft. I won a Cornell Computer Science Teaching
-Assistant Award in 2019 in recognition of my accomplishments and contributions in this role.
+I worked as a graduate TA for the following courses:
+
+* [CS 6784](https://github.com/ml-feedback-sys/materials-f23/) - Machine Learning in Feedback Systems
+
+* [CS 4850](http://www.cs.cornell.edu/courses/cs4850/2019sp/) - Mathematical Foundations for The Information Age
+
+* [CS 4820](https://www.cs.cornell.edu/courses/cs4820/2024sp/) - Introduction to Analysis of Algorithms
+
+I won a Cornell Computer Science Teaching Assistant Award in 2019 in
+recognition of my accomplishments and contributions in this role.
 
 ## UBC
 
