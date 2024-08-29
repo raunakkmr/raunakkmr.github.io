@@ -240,14 +240,13 @@ label.margin-toggle:not(.sidenote-number) {
  * ============================== */
 
 // new link behavior
-a {
-    color: $contrast-color;
-    text-decoration: none;
-}
+// a {
+//     color: $contrast-color;
+//     text-decoration: none;
+// }
 
 /* Links: replicate underline that clears descenders */
-// p > a:link, p > a:visited { color: inherit; }
-p > a:link, p > a:visited { color: $contrast-color; }
+p > a:link, p > a:visited { color: inherit; }
 
 p > a:link {
     background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(currentColor, currentColor);
