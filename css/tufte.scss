@@ -246,8 +246,7 @@ a {
 }
 
 /* Links: replicate underline that clears descenders */
-// p > a:link, p > a:visited { color: inherit; }
-a:link, a:visited { color: inherit; }
+p > a:link, p > a:visited { color: inherit; }
 
 p > a:link {
     background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(currentColor, currentColor);
