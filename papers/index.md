@@ -5,7 +5,8 @@ title: Papers
 ## Thesis
 * Learning from Interactions via Online Decision-making and Network Science.  
   Raunak Kumar.  
-  PhD Thesis, Cornell University, 2024.
+  PhD Thesis, Cornell University, 2024.  
+  [\[pdf\]](../files/thesis.pdf)
 
 ## Publications
 5. **Online Convex Optimization with Unbounded Memory.**  
