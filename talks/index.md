@@ -14,4 +14,3 @@ title: Talks
 
 * [Segment Trees](../files/2019_10_cornell_cs5199_segment_trees.pdf).  
   Cornell University CS 5199: Competition Programming and Problem Solving Seminar, October 2019.
-
