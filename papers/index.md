@@ -8,7 +8,6 @@ title: Papers
   PhD Thesis, Cornell University, 2024.  
   [\[pdf\]](../files/thesis.pdf)
 
-
 ## Publications
 5. **Online Convex Optimization with Unbounded Memory.**  
    Raunak Kumar, Sarah Dean, and Robert D. Kleinberg.  
