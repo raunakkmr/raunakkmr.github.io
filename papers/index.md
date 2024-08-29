@@ -2,12 +2,13 @@
 layout: post
 title: Papers
 ---
-## Publications
-6. Learning from Interactions via Online Decision-making and Network Science.  
-   Raunak Kumar.  
-   PhD Thesis, Cornell University, 2024.  
-   [\[pdf\]](../files/thesis.pdf)
+## Thesis
+* Learning from Interactions via Online Decision-making and Network Science.  
+  Raunak Kumar.  
+  PhD Thesis, Cornell University, 2024.  
+  [\[pdf\]](../files/thesis.pdf)
 
+## Publications
 5. **Online Convex Optimization with Unbounded Memory.**  
    Raunak Kumar, Sarah Dean, and Robert D. Kleinberg.  
    NeurIPS, 2023.  
