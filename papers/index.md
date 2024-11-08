@@ -5,12 +5,15 @@ title: Papers
 ## Publications
 
 ### Dissertation
+
 * **Learning from Interactions via Online Decision-making and Network Science.**  
    Raunak Kumar.  
    PhD Thesis, Cornell University, 2024.  
    [\[pdf\]](../files/thesis.pdf)
+  
 
 ### Papers
+
 6. **Learning in Budgeted Auctions with Spacing Objectives.**  
    Giannis Fikioris, Robert Kleinberg, Yoav Kolumbus, Raunak Kumar, Yishay Mansour, &Eacute;va Tardos.  
    In Submission, 2024.  
