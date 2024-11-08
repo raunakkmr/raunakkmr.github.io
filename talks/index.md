@@ -5,7 +5,6 @@ title: Talks
 * Online Convex Optimization with Unbounded Memory.
   
     * Cornell University Theory Seminar, April 2023.
-      
     * Columbia University Theory Student Seminar, April 2023.
 
 * Non-monotonic Resource Utilization in the Bandits with Knapsacks Problem.
