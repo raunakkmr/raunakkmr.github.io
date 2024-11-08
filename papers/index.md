@@ -3,13 +3,21 @@ layout: post
 title: Papers
 ---
 ## Publications
-6. Learning from Interactions via Online Decision-making and Network Science.  
+
+### Dissertation
+* **Learning from Interactions via Online Decision-making and Network Science.**  
    Raunak Kumar.  
    PhD Thesis, Cornell University, 2024.  
    [\[pdf\]](../files/thesis.pdf)
 
+### Papers
+6. **Learning in Budgeted Auctions with Spacing Objectives.**  
+   Giannis Fikioris, Robert Kleinberg, Yoav Kolumbus, Raunak Kumar, Yishay Mansour, &Eacute;va Tardos.  
+   In Submission, 2024.  
+   [\[pdf\]](https://arxiv.org/abs/2411.04843)
+
 5. **Online Convex Optimization with Unbounded Memory.**  
-   Raunak Kumar, Sarah Dean, and Robert D. Kleinberg.  
+   Raunak Kumar, Sarah Dean, and Robert Kleinberg.  
    NeurIPS, 2023.  
    [\[proceedings\]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/531230cfac80c65017ad0f85d3031edc-Abstract-Conference.html)
    [\[arXiv\]](https://arxiv.org/abs/2210.09903)
@@ -17,7 +25,7 @@ title: Papers
    [\[poster\]](../files/2023_neurips_oco_with_unbounded_memory_poster.pdf)
 
 4. **Non-monotonic Resource Utilization in the Bandits with Knapsacks Problem.**  
-   Raunak Kumar and Robert D. Kleinberg.  
+   Raunak Kumar and Robert Kleinberg.  
    NeurIPS, 2022.  
    [\[proceedings\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7a62d9a4c03377d1175b8859b4cc16d4-Abstract-Conference.html)
    [\[arXiv\]](https://arxiv.org/abs/2209.12013)
