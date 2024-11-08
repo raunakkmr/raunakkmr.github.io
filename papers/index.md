@@ -6,10 +6,19 @@ title: Papers
 
 ### Dissertation
 
-* **Learning from Interactions via Online Decision-making and Network Science.**  
-   Raunak Kumar.  
-   PhD Thesis, Cornell University, 2024.  
-   [\[pdf\]](../files/thesis.pdf)
+<ul>
+   <li>
+      <p>
+         <strong>Learning from Interactions via Online Decision-making and Network Science.</strong>
+         <br>
+         Raunak Kumar.
+         <br>
+         PhD Thesis, Cornell University, 2024.
+         <br>
+         <a href="/files/thesis.pdf">[pdf]</a>
+      </p>
+   </li>
+</ul>
   
 
 ### Papers
