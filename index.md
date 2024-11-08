@@ -4,7 +4,7 @@ title: Raunak Kumar
 ---
 {% include marginfigurenodesc.html id="profile" url="files/profile.jpg" %}
 
-I will join the [MSAI](https://www.microsoft.com/en-us/research/group/msai/) team at Microsoft as an applied scientist in fall 2024!
+I am an applied scientist in the [MSAI](https://www.microsoft.com/en-us/research/group/msai/) team at Microsoft where I work on Microsoft 365 Copilot.
 
 I received my PhD in computer science from [Cornell University](https://www.cs.cornell.edu/), where I was advised by [Robert D. Kleinberg](https://www.cs.cornell.edu/~rdk/) and [Sarah Dean](https://sdean.website/). Prior to that, I received my undergraduate degree in computer science from [The University of British Columbia](https://www.cs.ubc.ca/), where I was advised by [Mark Schmidt](https://www.cs.ubc.ca/~schmidtm/).
 
