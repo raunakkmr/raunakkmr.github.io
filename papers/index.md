@@ -26,7 +26,7 @@ title: Papers
 6. **Learning in Budgeted Auctions with Spacing Objectives.**  
    Giannis Fikioris, Robert Kleinberg, Yoav Kolumbus, Raunak Kumar, Yishay Mansour, and &Eacute;va Tardos.  
    In Submission, 2024.  
-   [\[pdf\]](https://arxiv.org/abs/2411.04843)
+   [\[arXiv\]](https://arxiv.org/abs/2411.04843)
 
 5. **Online Convex Optimization with Unbounded Memory.**  
    Raunak Kumar, Sarah Dean, and Robert Kleinberg.  
