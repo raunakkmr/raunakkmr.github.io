@@ -25,7 +25,7 @@ title: Papers
 
 6. **Learning in Budgeted Auctions with Spacing Objectives.**  
    Giannis Fikioris, Robert Kleinberg, Yoav Kolumbus, Raunak Kumar, Yishay Mansour, and &Eacute;va Tardos.  
-   ACM Conference on Economics and Computation (EC), 2025.  
+   EC, 2025.  
    [\[arXiv\]](https://arxiv.org/abs/2411.04843)
 
 5. **Online Convex Optimization with Unbounded Memory.**  
