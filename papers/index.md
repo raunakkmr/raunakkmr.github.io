@@ -15,7 +15,7 @@ title: Papers
          <br>
          PhD Thesis, Cornell University, 2024.
          <br>
-         <a href="/files/thesis.pdf">[pdf]</a>
+         <a href="https://ecommons.cornell.edu/items/f2bff172-34a7-4c70-8e2c-25aa2957eebb">[pdf]</a>
       </p>
    </li>
 </ul>
