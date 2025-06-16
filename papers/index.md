@@ -13,7 +13,7 @@ title: Papers
          <br>
          Raunak Kumar.
          <br>
-         PhD Thesis, Cornell University, 2024.
+         PhD Dissertation, Cornell University, 2024.
          <br>
          <a href="https://ecommons.cornell.edu/items/f2bff172-34a7-4c70-8e2c-25aa2957eebb">[pdf]</a>
       </p>
